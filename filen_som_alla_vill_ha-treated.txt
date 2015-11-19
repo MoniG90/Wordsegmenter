@@ -1,0 +1,345 @@
+threshold: 0.00001 gave: 653
+True positives: 9619
+False negatives: 381
+False positives: 463
+Precision: 0.9540765721087086
+Recall: 0.9619
+653
+F: 0.9579723135145901
+
+threshold: 0.00002 gave: 660
+True positives: 9614
+False negatives: 386
+False positives: 446
+Precision: 0.9556660039761431
+Recall: 0.9614
+660
+F: 0.9585244267198405
+
+threshold: 0.00003 gave: 662
+True positives: 9577
+False negatives: 423
+False positives: 429
+Precision: 0.9571257245652608
+Recall: 0.9577
+662
+F: 0.9574127761671498
+
+threshold: 0.00004 gave: 665
+True positives: 9564
+False negatives: 436
+False positives: 421
+Precision: 0.9578367551326991
+Recall: 0.9564
+665
+F: 0.9571178383787841
+
+threshold: 0.00005 gave: 668
+True positives: 9561
+False negatives: 439
+False positives: 414
+Precision: 0.9584962406015037
+Recall: 0.9561
+668
+F: 0.9578367551326991
+
+threshold: 0.00006 gave: 671
+True positives: 9549
+False negatives: 451
+False positives: 407
+Precision: 0.9591201285656891
+Recall: 0.9549
+671
+F: 0.9570054119061936
+
+threshold: 0.00007 gave: 674
+True positives: 9537
+False negatives: 463
+False positives: 396
+Precision: 0.9601328903654485
+Recall: 0.9537
+674
+F: 0.9569056338734762
+
+threshold: 0.00008 gave: 675
+True positives: 9522
+False negatives: 478
+False positives: 393
+Precision: 0.9603630862329803
+Recall: 0.9522
+675
+F: 0.956264122520713
+threshold: 0.00009 gave: 682
+True positives: 9498
+False negatives: 502
+False positives: 371
+Precision: 0.9624075387577262
+Recall: 0.9498
+682
+F: 0.9560622074588554
+
+threshold: 0.00010 gave: 682
+True positives: 9490
+False negatives: 510
+False positives: 370
+Precision: 0.962474645030426
+Recall: 0.949
+682
+F: 0.9556898288016112
+
+threshold: 0.00011 gave: 685
+True positives: 9486
+False negatives: 514
+False positives: 362
+Precision: 0.9632412672623883
+Recall: 0.9486
+685
+F: 0.9558645707376058
+
+threshold: 0.00012 gave: 683
+True positives: 9455
+False negatives: 545
+False positives: 351
+Precision: 0.9642055884152559
+Recall: 0.9455
+683
+F: 0.9547611834797537
+
+threshold: 0.00013 gave: 678
+True positives: 9402
+False negatives: 598
+False positives: 351
+Precision: 0.9640110735158413
+Recall: 0.9402
+678
+F: 0.9519566648104085
+
+threshold: 0.00014 gave: 676
+True positives: 9384
+False negatives: 616
+False positives: 353
+Precision: 0.9637465338399918
+Recall: 0.9384
+676
+F: 0.9509043927648578
+
+threshold: 0.00015 gave: 673
+True positives: 9358
+False negatives: 642
+False positives: 351
+Precision: 0.9638479761046451
+Recall: 0.9358
+673
+F: 0.9496169262773352
+
+threshold: 0.00016 gave: 673
+True positives: 9343
+False negatives: 657
+False positives: 348
+Precision: 0.9640903931482819
+Recall: 0.9343
+673
+F: 0.948961454471586
+
+threshold: 0.00017 gave: 671
+True positives: 9300
+False negatives: 700
+False positives: 346
+Precision: 0.9641302094132282
+Recall: 0.93
+671
+F: 0.9467576096915403
+
+threshold: 0.00018 gave: 668
+True positives: 9265
+False negatives: 735
+False positives: 346
+Precision: 0.9639995838102174
+Recall: 0.9265
+668
+F: 0.9448778746621794
+
+threshold: 0.00019 gave: 668
+True positives: 9265
+False negatives: 735
+False positives: 346
+Precision: 0.9639995838102174
+Recall: 0.9265
+668
+F: 0.9448778746621794
+
+threshold: 0.00020 gave: 670
+True positives: 9267
+False negatives: 733
+False positives: 343
+Precision: 0.9643080124869927
+Recall: 0.9267
+670
+
+threshold: 0.00021 gave: 670
+True positives: 9267
+False negatives: 733
+False positives: 343
+Precision: 0.9643080124869927
+Recall: 0.9267
+670
+
+threshold: 0.00022 gave: 670
+True positives: 9267
+False negatives: 733
+False positives: 343
+Precision: 0.9643080124869927
+Recall: 0.9267
+670
+
+threshold: 0.00023 gave: 669
+True positives: 9250
+False negatives: 750
+False positives: 341
+Precision: 0.9644458346366385
+Recall: 0.925
+669
+
+threshold: 0.00024 gave: 671
+True positives: 9252
+False negatives: 748
+False positives: 339
+Precision: 0.9646543634657492
+Recall: 0.9252
+671
+
+threshold: 0.00025 gave: 672
+True positives: 9234
+False negatives: 766
+False positives: 326
+Precision: 0.9658995815899581
+Recall: 0.9234
+672
+
+threshold: 0.00026 gave: 669
+True positives: 9198
+False negatives: 802
+False positives: 324
+Precision: 0.9659735349716446
+Recall: 0.9198
+669
+
+threshold: 0.00027 gave: 670
+True positives: 9199
+False negatives: 801
+False positives: 323
+Precision: 0.9660785549254358
+Recall: 0.9199
+670
+
+threshold: 0.00028 gave: 671
+True positives: 9185
+False negatives: 815
+False positives: 320
+Precision: 0.9663335086796423
+Recall: 0.9185
+671
+
+threshold: 0.00029 gave: 671
+True positives: 9185
+False negatives: 815
+False positives: 321
+Precision: 0.9662318535661687
+Recall: 0.9185
+671
+
+threshold: 0.00030 gave: 671
+True positives: 9185
+False negatives: 815
+False positives: 321
+Precision: 0.9662318535661687
+Recall: 0.9185
+671
+
+threshold: 0.00031 gave: 667
+True positives: 9140
+False negatives: 860
+False positives: 320
+Precision: 0.9661733615221987
+Recall: 0.914
+667
+
+threshold: 0.00032 gave: 668
+True positives: 9133
+False negatives: 867
+False positives: 318
+Precision: 0.9663527669029732
+Recall: 0.9133
+668
+
+threshold: 0.00033 gave: 664
+True positives: 9097
+False negatives: 903
+False positives: 318
+Precision: 0.9662241104620287
+Recall: 0.9097
+664
+
+threshold: 0.00034 gave: 662
+True positives: 9068
+False negatives: 932
+False positives: 320
+Precision: 0.965913932680017
+Recall: 0.9068
+662
+
+threshold: 0.00035 gave: 663
+True positives: 9070
+False negatives: 930
+False positives: 318
+Precision: 0.9661269706007669
+Recall: 0.907
+663
+
+threshold: 0.00036 gave: 663
+True positives: 9070
+False negatives: 930
+False positives: 318
+Precision: 0.9661269706007669
+Recall: 0.907
+663
+
+threshold: 0.00037 gave: 663
+True positives: 9061
+False negatives: 939
+False positives: 317
+Precision: 0.9661974834719557
+Recall: 0.9061
+663
+
+threshold: 0.00038 gave: 661
+True positives: 9043
+False negatives: 957
+False positives: 317
+Precision: 0.9661324786324786
+Recall: 0.9043
+661
+
+threshold: 0.00039 gave: 660
+True positives: 9026
+False negatives: 974
+False positives: 315
+Precision: 0.9662777004603361
+Recall: 0.9026
+660
+
+threshold: 0.00040 gave: 655
+True positives: 8974
+False negatives: 1026
+False positives: 314
+Precision: 0.9661929371231697
+Recall: 0.8974
+655
+
+threshold: 0.00041 gave: 653
+True positives: 8956
+False negatives: 1044
+False positives: 314
+Precision: 0.9661272923408846
+Recall: 0.8956
+653
